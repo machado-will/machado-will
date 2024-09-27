@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS and JavaScript at the moment.
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me: send me an e-mail "machado-will@hotmail.com"
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He/him
 
 
 <!---
